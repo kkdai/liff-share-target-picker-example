@@ -1,0 +1,5 @@
+venv
+*.pyc
+.env
+getting-started/*
+.vscode/settings.json
