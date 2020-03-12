@@ -14,7 +14,6 @@ var LIFF_Data struct {
 }
 
 func main() {
-	var err error
 	LIFF_Data.LIFFID = os.Getenv("YOUR_LIFF_ID")
 	LIFF_Data.RedirectURL = os.Getenv("YOUR_REDIRECT_URL")
 
