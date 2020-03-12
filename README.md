@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/kkdai/line-account-link.svg?branch=master)](https://travis-ci.org/kkdai/line-account-link)
 
 Blog post: https://engineering.linecorp.com/zh-hant/blog/liff-share-target-picker/
+Try this LIFF: https://evan-liff-share-target-picker.herokuapp.com/
 
 ## Deploying to Heroku
 
