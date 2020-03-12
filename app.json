@@ -1,9 +1,16 @@
 {
     "name": "LIFF - Share Target Picker Example.",
     "description": "A example to demo how to use LINE LIFF Share target picker",
-    "image": "heroku/python",
     "repository": "https://github.com/kkdai/liff-share-target-picker-example",
-    "keywords": ["python", "django" ],
+    "keywords": ["LINE", "go" ],
+    "buildpacks": [
+      {
+        "url": "https://github.com/kr/heroku-buildpack-go.git"
+      },
+      {
+        "url": "heroku/go"
+      }
+    ],    
     "env": {
       "YOUR_LIFF_ID": {
         "description": "LIFF ID for your App.",

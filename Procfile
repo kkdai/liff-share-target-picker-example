@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-file=-
+web: liff-share-target-picker-example
